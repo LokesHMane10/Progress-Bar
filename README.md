@@ -16,8 +16,7 @@ A sleek, fully responsive **Testimonial UI component** built using **React**. Id
 ## 🛠️ Tech Stack
 
 - **React**
-- **CSS Modules / Tailwind CSS / Styled Components** (based on what you used)
-- Responsive design principles (Flexbox, Grid)
+- **CSS Modules / Bootstrap** 
 
 ---
 
