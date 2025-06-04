@@ -12,6 +12,7 @@ A sleek, fully responsive **Testimonial UI component** built using **React**. Id
 - ✅ Supports images, names, roles, and quotes
 - ✅ Lightweight and reusable React component
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +21,6 @@ A sleek, fully responsive **Testimonial UI component** built using **React**. Id
 
 ---
 
-![Testimonial Demo](./image.png) <!-- Replace with actual image file  -->
 
----
+
 
